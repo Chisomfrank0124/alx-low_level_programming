@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <6-abs.c>
+#include "main.h"
 /**
  * print_last_digit - main function
  * @n: integer to get last digit o

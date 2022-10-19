@@ -6,7 +6,7 @@
  * Description: a function that prints _putchar
  * return: (void)
  */
-int main(void)
+int main()
 {
 	/*function definition*/
 	char c[8] ="_putchar";
@@ -18,4 +18,5 @@ int main(void)
 	       	_putchar(c[i]);
         }
 	_putchar('\n');
+	return 0;
 }
